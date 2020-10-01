@@ -1,8 +1,12 @@
-# A CLI ip Port sniffer in Rustlang
+# Port Sniffer (CLI)
+## **Version 1.0**
 
-**Version 1.0**
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-rust.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
 
-An Command Line Ip port sniffer using only Standard libraries in rustlang.
 
+## A Command Line IP port sniffer using only Standard libraries in RustLang
 ----
-Run time not optimal.
+### A very simple port sniffer made with Rust to easily sniff active ports on your network and provides you an insight. A pocket sized tool for your security needs.
+### Run time not optimal.
